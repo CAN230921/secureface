@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=SecureFace Polkit Agent
+Exec=/usr/bin/faceauth-polkit-agent
+X-GNOME-Autostart-enabled=true
+NoDisplay=true
